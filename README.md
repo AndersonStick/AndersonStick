@@ -27,7 +27,8 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Nacional de Colombia
 
 ### Ecommerce Desplegado:
 
-![https://ecommerce-primer-deploy-nuevo-repo.onrender.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2Fp%2FClub-MotoSpit-100079959467563%2F&psig=AOvVaw3L75p6BX90_B1CrpkcRX7G&ust=1703174370218000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCg_ZWxnoMDFQAAAAAdAAAAABA)
+[<img src="https://cdn.icon-icons.com/icons2/3635/PNG/512/motorbike_motorcycle_transport_icon_227559.png" alt="Icono Moto" width="20"/> eCommerce de Repuestos de Motos](https://ecommerce-primer-deploy-nuevo-repo.onrender.com)
+
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
@@ -35,7 +36,7 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Nacional de Colombia
 
 ## Contacto:
 
-[![Email](https://img.shields.io/badge/andersonbar10@gmail.com-email_personal_(respuesta_lenta)-FFA500?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andersonbar10@gmail.com)
+[![Email](https://img.shields.io/badge/andersonbar10@gmail.com-email_personal_(respuesta_rápida)-FFA500?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andersonbar10@gmail.com)
 </br>
 <!--
 **AndersonStick/AndersonStick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

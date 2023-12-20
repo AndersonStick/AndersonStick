@@ -1,12 +1,15 @@
-# ¡Hola! Soy Anderson Barrera 👋
+# Hola, mi nombre es Anderson Barrera 👋
 ### Freelance full-stack web developer
 
-![https://github.com/AndersonBarrera](https://raw.githubusercontent.com/AndersonBarrera/AndersonBarrera/main/andersonbarrera_github_profile.png)
+![https://github.com/AndersonBarrera](https://pbs.twimg.com/profile_banners/2515878729/1685031925/1500x500)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/ander212003?style=social)](https://twitter.com/ander212003)
 
 [![GitHub Followers](https://img.shields.io/github/followers/AndersonBarrera?style=social)](https://github.com/AndersonBarrera)
+
 ![GitHub Stars](https://img.shields.io/github/stars/AndersonBarrera?style=social)
 
-Soy estudiante de Ingeniería de Sistemas en la Universidad Nacional de Colombia.
+Estudiante de Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia con un gran interés en administración, gestión de bases de datos y desarrollo de software. Experimentado en proyectos independientes de desarrollo de software, destacando la creatividad y un enfoque proactivo. Orientado al trabajo en equipo con familiaridad en la metodología SCRUM, ansioso por aprender y aplicar nuevas tecnologías en el desarrollo de software.
 
 ## Tecnologías:
 [![Web Development](https://img.shields.io/badge/Web_Development-999999?style=for-the-badge&logo=web&logoColor=white&labelColor=101010)]()
@@ -14,6 +17,8 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Nacional de Colombia
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 </br>
+
+
 
 ## Encuéntrame en:
 

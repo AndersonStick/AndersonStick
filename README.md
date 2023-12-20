@@ -13,6 +13,7 @@ Estudiante de Ingeniería de Sistemas y Computación en la Universidad Nacional 
 
 ## Tecnologías:
 [![Web Development](https://img.shields.io/badge/Web_Development-999999?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=https://ruta-de-tu-imagen/logo_java.png&logoColor=white&labelColor=101010)](https://en.wikipedia.org/wiki/Java_(programming_language))
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()

@@ -12,13 +12,11 @@
 Estudiante de Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia con un gran interés en administración, gestión de bases de datos y desarrollo de software. Experimentado en proyectos independientes de desarrollo de software, destacando la creatividad y un enfoque proactivo. Orientado al trabajo en equipo con familiaridad en la metodología SCRUM, ansioso por aprender y aplicar nuevas tecnologías en el desarrollo de software.
 
 ## Tecnologías:
-[![Web Development](https://img.shields.io/badge/Web_Development-999999?style=for-the-badge&logo=web&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Web Development](https://img.shields.io/badge/Web_Development-999999?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=https://ruta-de-tu-imagen/logo_java.png&logoColor=white&labelColor=101010)](https://en.wikipedia.org/wiki/Java_(programming_language))
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 </br>
-
-
 
 ## Encuéntrame en:
 

@@ -35,9 +35,7 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Nacional de Colombia
 
 ## Contacto:
 
-[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/AndersonBarrera)
-</br>
-[![Email](https://img.shields.io/badge/andersonbar10@gmail.com-email_personal_(RESPUESTA_RÁPIDA)_Gracias!-orange-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andersonbar10@gmail.com)
+[![Email](https://img.shields.io/badge/andersonbar10@gmail.com-email_personal_(respuesta_lenta)-FFA500?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andersonbar10@gmail.com)
 </br>
 <!--
 **AndersonStick/AndersonStick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

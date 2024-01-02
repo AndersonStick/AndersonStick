@@ -1,4 +1,4 @@
-# ![https://holmic-trips.000webhostapp.com](https://raw.githubusercontent.com/AndersonStick/BlogPersonalV1/main/icono_github/icono_anderson7550.jpg) Hola, mi nombre es Anderson Barrera 👋
+# ![https://holmic-trips.000webhostapp.com](https://raw.githubusercontent.com/AndersonStick/BlogPersonalV1/main/icono_github/icono_anderson7550_fondo_negro.jpg) Hola, mi nombre es Anderson Barrera 👋
 ### Freelance full-stack web developer
 
 ![https://github.com/AndersonBarrera](https://pbs.twimg.com/profile_banners/2515878729/1685031925/1500x500)

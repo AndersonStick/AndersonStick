@@ -31,7 +31,7 @@ Estudiante de Ingeniería de Sistemas y Computación en la Universidad Nacional 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anderson_Barrera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/anderson-barrera-251b5525b/)
 [![GitHub](https://img.shields.io/badge/GitHub-AndersonBarrera-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/AndersonStick)
 </br>
-[![Web](https://img.shields.io/badge/Web-AndersonBarrera.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://andersonbarrera.com)
+[![Web](https://img.shields.io/badge/Web-AndersonBarrera.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://holmic-trips.000webhostapp.com)
 
 ## Proyectos destacados:
 
